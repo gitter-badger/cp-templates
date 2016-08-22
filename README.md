@@ -1,4 +1,6 @@
 ## ***Template for competitive programing***
+
+[![Join the chat at https://gitter.im/cp-templates/Lobby](https://badges.gitter.im/cp-templates/Lobby.svg)](https://gitter.im/cp-templates/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 _Huynh Van Duy_
 
 > C++
